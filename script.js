@@ -1,1 +1,1 @@
-console.log("toto")
+document.querySelector('btn-1').addEventListener('click', () => alert('!!! ALERTE !!!'));
